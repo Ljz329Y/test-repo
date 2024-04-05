@@ -1,5 +1,3 @@
-#第一
+SSR HNBMC 
 
-这狗屎万一真的烦啊
-
-
+HK wassup
